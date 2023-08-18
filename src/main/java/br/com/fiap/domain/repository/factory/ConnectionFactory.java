@@ -18,14 +18,14 @@ public class ConnectionFactory {
 
     private String user;
 
-    private String pass;
+    private String passaaaa;
 
     private String driver;
 
     private ConnectionFactory(String ul, String user, String pass, String driver) {
         this.ul = ul;
         this.user = user;
-        this.pass = pass;
+        this.passaaaa = pass;
         this.driver = driver;
     }
 
